@@ -1,3 +1,10 @@
+# YOU MOST LIKELY DON'T WANT TO USE THIS!!!
+
+This is a dirty fix for a very specific issue while using BepInEx 6 on Wine/Whisky/Proton. If you're on Windows, DON'T USE THIS!!!
+
+If you're sure you want to use this, check the actions tab for builds.
+
+
 ﻿<p align="center">
     <img src="https://avatars2.githubusercontent.com/u/39589027?s=256">
 </p>
