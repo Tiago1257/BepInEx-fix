@@ -126,8 +126,8 @@ internal static class PlatformUtils
             if (machine == (ImageFileMachine) 0x01C4 /* ARM, .NET Framework 4.5 */)
                 current |= Platform.ARM;
         }
-
-        PlatformHelper.Current = current;
+        // Scary!
+        // PlatformHelper.Current = current;
     }
 
     [UnmanagedFunctionPointer(CallingConvention.Cdecl)]
